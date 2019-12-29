@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ff5e338-48d8-4187-a886-7d573cc1f775" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1VdMFOzFfGorGa3jpcmTcBQtcpk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/nginx" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/nginx" />
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/nginx" />
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$/worker" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/worker" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ff5e338-48d8-4187-a886-7d573cc1f775" name="Default Changelist" comment="" />
+      <created>1577578413132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577578413132</updated>
+      <workItem from="1577578414799" duration="15155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1548" height="217" key="GridCell.Tab.0.bottom" timestamp="1577639012811">
+      <screen x="-1600" y="23" width="1600" height="877" />
+    </state>
+    <state width="1548" height="217" key="GridCell.Tab.0.bottom/-1600.23.1600.877/0.23.1600.835@-1600.23.1600.877" timestamp="1577639012811" />
+    <state width="1548" height="217" key="GridCell.Tab.0.center" timestamp="1577639012809">
+      <screen x="-1600" y="23" width="1600" height="877" />
+    </state>
+    <state width="1548" height="217" key="GridCell.Tab.0.center/-1600.23.1600.877/0.23.1600.835@-1600.23.1600.877" timestamp="1577639012809" />
+    <state width="1548" height="217" key="GridCell.Tab.0.left" timestamp="1577639012809">
+      <screen x="-1600" y="23" width="1600" height="877" />
+    </state>
+    <state width="1548" height="217" key="GridCell.Tab.0.left/-1600.23.1600.877/0.23.1600.835@-1600.23.1600.877" timestamp="1577639012809" />
+    <state width="1548" height="217" key="GridCell.Tab.0.right" timestamp="1577639012810">
+      <screen x="-1600" y="23" width="1600" height="877" />
+    </state>
+    <state width="1548" height="217" key="GridCell.Tab.0.right/-1600.23.1600.877/0.23.1600.835@-1600.23.1600.877" timestamp="1577639012810" />
+  </component>
+</project>
