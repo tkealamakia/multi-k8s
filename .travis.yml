@@ -18,3 +18,15 @@ after_success:
   - docker push tkealamakia/multi-nginx
   - docker push tkealamakia/multi-server
   - docker push tkealamakia/multi-worker
+
+deploy:
+  provider: elasticbeanstalk
+  region: us-east-2
+  app: multi-docker
+  env: MultiDocker-env
+  bucket_name: elasticbeanstalk-us-east-2-998085235794
+  bucket_path: docker-multi
+  on:
+    branch: master
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
