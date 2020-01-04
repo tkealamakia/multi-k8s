@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ff5e338-48d8-4187-a886-7d573cc1f775" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/k8s/client-cluster-ip-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/client-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/database-persistent-volume-claim.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/ingress-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/postgres-cluster-ip-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/postgres-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/redis-cluster-ip-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/redis-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/server-cluster-ip-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/server-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/worker-deployment.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerrun.aws.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/client/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/default.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/server/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/Dockerfile.dev" beforeDir="false" afterPath="$PROJECT_DIR$/server/Dockerfile.dev" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/worker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/worker/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/worker/Dockerfile.dev" beforeDir="false" afterPath="$PROJECT_DIR$/worker/Dockerfile.dev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +65,7 @@
       <updated>1577578413132</updated>
       <workItem from="1577578414799" duration="21907000" />
       <workItem from="1577980967820" duration="5738000" />
-      <workItem from="1578002370386" duration="8483000" />
+      <workItem from="1578002370386" duration="10827000" />
     </task>
     <servers />
   </component>
