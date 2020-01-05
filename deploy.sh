@@ -4,11 +4,11 @@ docker build -t tkealamakia/multi-worker:latest -t tkealamakia/multi-worker:$SHA
 
 docker push tkealamakia/multi-client:latest
 docker push tkealamakia/multi-server:latest
-docker push tkealamakia/multi-client:latest
+docker push tkealamakia/multi-worker:latest
 
 docker push tkealamakia/multi-client:$SHA
 docker push tkealamakia/multi-server:$SHA
-docker push tkealamakia/multi-client:$SHA
+docker push tkealamakia/multi-worker:$SHA
 
 kubectl apply -f k8s
 kubectl set image deployments/server-deployment server=tkealamakia/multi-server:$SHA
